@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\bin\Debug\netcoreapp3.1\listspractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\listspractice\obj\Debug\netcoreapp3.1\listspractice.genruntimeconfig.cache
